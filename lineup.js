@@ -1,3 +1,5 @@
+// KMC: Here we go ... 
+
 export function calculateTotalSalary(lineup) {
   return 0
 }
